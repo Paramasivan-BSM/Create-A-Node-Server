@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "Name":"Rome",
+        "img":"https://plus.unsplash.com/premium_photo-1675975635390-6ca4d5c056b2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "location":"Rome, Metropolitan City of Rome Capital, Italy"
+    },
+    {
+        "id":2,
+        "Name":"TajMahal",
+        "img":"https://images.unsplash.com/photo-1652468393994-4cf56633634b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "location":"RTaj Mahal, Agra, India"
+    },
+
+    {
+        "id":3,
+        "Name":"Catholic Church",
+        "img":"https://images.unsplash.com/photo-1522289849170-49c9c3c6a460?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "location":"Paris, France"
+    }
+]
